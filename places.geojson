@@ -4,70 +4,70 @@
     {
       "type": "Feature",
       "properties": {
-        "Restaurant": "Kienlen",
-        "Review": "5 Star"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.28976440429688,
-          38.67210881558816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Restaurant": "Market",
+        "Restaurant": "Taste of Lebanon",
         "Review": "4 Star"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.23002624511719,
-          38.65441572712308
+          -90.26150473914255,
+          38.64609159524114
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Restaurant": "Porters Fried Cicken",
-        "Review": "3 Star"
+        "Restaurant": "Balkan Treat Box",
+        "Review": "4.9 Star"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.32615661621094,
-          38.601846852838094
+          -90.33855777034898,
+          38.5945750393188
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Restaurant": "Tower Grove",
-        "Review": "2 Star"
+        "Restaurant": "Pappy's",
+        "Review": "4.7 Star"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.26504516601562,
-          38.62169881367633
+          -90.22401682117703,
+          38.635170846347506
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Restaurant": "Friedleys",
-        "Review": "1 Star"
+        "Restaurant": "Diana's Bakery",
+        "Review":  4.6 Star"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.25131225585938,
-          38.59540719940386
+          -90.23166593014328,
+          38.595394090074805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Uncle Bill's Pancakes",
+        "Review": "4.3 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27123544161336,
+          38.5989987517414
         ]
       }
     }
