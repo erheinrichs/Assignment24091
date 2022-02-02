@@ -57,7 +57,7 @@ var geojsonFeature = {
       "type": "Feature",
       "properties": {
         "Restaurant": "Diana's Bakery",
-        "Review":  4.6 Star"
+        "Review":  "4.6 Star"
       },
       "geometry": {
         "type": "Point",
